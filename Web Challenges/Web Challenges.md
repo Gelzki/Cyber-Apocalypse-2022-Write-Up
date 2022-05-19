@@ -220,7 +220,7 @@ We now have an RCE, let's try to read the flag.
 
 Checking the web page of Mutation Lab gives a login/register page.
 
-![[Pasted image 20220517162556.png]]
+![Pasted image 20220517162556.png](https://github.com/Gelzki/Cyber-Apocalypse-2022-Write-Up/blob/main/attachments/Pasted%20image%2020220517162556.png)
 
 After logging in, there was a functionality to **'Export Cell Structure'** and **'Export TadPole Samples'**.
 
